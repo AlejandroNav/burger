@@ -1,0 +1,23 @@
+.login-container{
+    display: flex;
+}
+.login-container input{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px;
+    padding: 9.6px;
+    margin: 15px;
+}
+.login-page h1{
+    font-family: lilita one;
+    font-size: 6rem;
+    color: yellow;
+}
+.login-page span{
+    font-family: satisfy;
+    font-size: 5rem;
+    color: coral;
+}
+.login-images img{
+height: 300px;
+}

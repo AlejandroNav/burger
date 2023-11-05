@@ -12,6 +12,7 @@ function Menu() {
                 Congratulations !!!
             </h1>
             <button onClick={handleBack}>Return</button>
+            <input type="text" />
         </>
     )
 }
